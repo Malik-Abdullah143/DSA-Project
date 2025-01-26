@@ -14,33 +14,8 @@ A simple command-line application for managing student data. This system allows 
 - **Display All Students**: View all students' information.
 - **Sort Students**: Sort students based on their grades using bubble sort.
 
-## Installation Instructions
 
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/yourusername/Student-Management-System.git
-   ```
-
-2. **Navigate to the Source Directory**:
-
-   ```bash
-   cd Student-Management-System/src
-   ```
-
-3. **Compile the Code**: Ensure you have a C++ compiler installed (e.g., `g++`).
-
-   ```bash
-   g++ main.cpp -o StudentManagement
-   ```
-
-4. **Run the Program**:
-
-   ```bash
-   ./StudentManagement
-   ```
-
-## Usage Guide
+ Usage Guide
 
 After running the program, a menu will appear with options to interact with the system. For example:
 
